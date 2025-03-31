@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Tri'Nytia/Documents/Unreal Projects/PortfolioLevelDesign/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.uasset",
+				"C:/Users/Tri'Nytia/Documents/Unreal Projects/PortfolioLevelDesign/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap"
+			]
+		}
+	]
+}
